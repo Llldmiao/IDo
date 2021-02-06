@@ -8,3 +8,8 @@
       2.【子组件】给【父组件】传数据：通过props，要求父组件提前给子组件传递一个函数
     4.注意defaultChecked 和 checked的区别，类似的还要：defaultValue 和 value
     5.状态在哪里，操作状态的方法就在哪里
+
+## 项目启动：
+命令行进入ido目录后输入`yarn start`
+
+默认启动在http://localhost:3000/
