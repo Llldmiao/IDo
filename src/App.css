@@ -1,0 +1,30 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 3px 3px rgba(0, 0, 255, .2);
+}
+.todo-warp {
+  margin:0;
+  padding:10px;
+  /* border: 1px solid #ddd; */
+}
+
+.btn{
+  border:0;
+  border-radius: 3px;
+  background-color:#47cf73;
+  margin:0;
+  padding: 5px;
+  font-size: 20px;
+  float: right;
+}
+.btn:hover{
+  cursor: pointer;
+  background-color: #2fb45a;
+}
+.btn:focus {
+  outline: none;
+}

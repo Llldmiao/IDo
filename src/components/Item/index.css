@@ -1,0 +1,14 @@
+.item{
+  width: 400px;
+  height: 40px;
+  line-height: 30px;
+  font-size: 20px;
+  
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.item:hover{
+  cursor: pointer;
+  background-color: #ddd;
+}
